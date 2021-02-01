@@ -1,0 +1,16 @@
+The questions are based on the movies dataset which can be found here
+
+Can you print the first 10 records.
+
+What are the data types of the columns.
+
+Count of Animation movies.
+(Hint: use the count() function)
+
+Show the Comedy movies in the year 2007.
+
+Count of Animation movies with more than 70% Audience Score.
+
+Show the list of top 5 movies based on profitability.
+
+Show the top 5 Comedy movies approved by the audience. (hint : Audience Score)
